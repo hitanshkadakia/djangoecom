@@ -1,4 +1,4 @@
-Install the Requirements: pip install -r requirements.txt.
+Install the Requirements: pip install -r requirements.txt
 
 Then, make database migrations: python manage.py makemigrations
 
